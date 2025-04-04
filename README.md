@@ -51,11 +51,11 @@ pip install -r requirements.txt
 python model.py
 ```
 ## Kaynaklar:
-[Keras model APİ](https://keras.io/api/models/model/)
-[First Deep Learning Project](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
-[How to configure layers](https://machinelearningmastery.com/how-to-configure-the-number-of-layers-and-nodes-in-a-neural-network/)
-[How to choose loss func](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
-[adam optimizing algorithm with deep learning](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
+- [Keras model APİ](https://keras.io/api/models/model/)
+- [First Deep Learning Project](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
+- [How to configure layers](https://machinelearningmastery.com/how-to-configure-the-number-of-layers-and-nodes-in-a-neural-network/)
+- [How to choose loss func](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
+- [adam optimizing algorithm with deep learning](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
 
 
 
