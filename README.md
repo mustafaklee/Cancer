@@ -50,3 +50,4 @@ cd Cancer-Classification-simple-Neural-Network
 pip install -r requirements.txt
 python model.py
 ```
+Proje python 3.9.11 sürümü ile oluşturulmuştur
