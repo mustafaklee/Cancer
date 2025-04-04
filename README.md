@@ -2,8 +2,8 @@
 
 Bu projede kullanılan veri seti, Scikit-learn kütüphanesinde bulunan `load_breast_cancer()` fonksiyonundan elde edilen Breast Cancer (Diagnostic) veri setidir. Veri seti, kanser hücrelerinin iyi huylu (benign) veya kötü huylu (malignant) olup olmadığını tahmin etmek üzere tasarlanmış bir sınıflandırma problemidir.
 
-(images/model_accuracy.png)
-(images/model_loss.png)
+!(images/model_accuracy.png)
+!(images/model_loss.png)
 
 
 ### Veri Setinin İçeriği
